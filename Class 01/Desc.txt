@@ -1,0 +1,7 @@
+			---Module --- 
+
+The code written by somebody else
+Modules are installed by the help of pip. For example pip install django. Similarly flask is a module for web app.
+
+Pyjokes: It is a module.
+

@@ -4,4 +4,15 @@ The code written by somebody else
 Modules are installed by the help of pip. For example pip install django. Similarly flask is a module for web app.
 
 Pyjokes: It is a module.
+	>>pip install pyjokes
+
+Two type of module: 1. Built in 2. External
+
+REPL--Read Evaluate Print Loop--If we want to print any valid string or calculation from cmd/power shell using python.
+
+Comment-
+Single: -CTRL+/
+Multi: """jk
+kjk 
+"""
 
